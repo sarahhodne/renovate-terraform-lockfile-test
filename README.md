@@ -1,4 +1,4 @@
-# renovate-terraform-lockfile-test
+# 39515
 
 ## Current behaviour
 
@@ -10,4 +10,4 @@ Enabling `lockFileMaintenance` on a repository with `required_versions` and a `.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/39515
